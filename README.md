@@ -1,6 +1,4 @@
 ### Hi there 👋
-(https://badge.mediaplus.ma/darkblue/<adardour>)](https://github.com/oakoudad/badge42)
-
 
 <h1>Hi Im Achraf </h1>
 <p align="center">
