@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![<adardour>'s 42 stats](https://badge.mediaplus.ma/darkblue/<adardour>)](https://github.com/oakoudad/badge42)
+(https://badge.mediaplus.ma/darkblue/<adardour>)](https://github.com/oakoudad/badge42)
 
 
 <h1>Hi Im Achraf </h1>
