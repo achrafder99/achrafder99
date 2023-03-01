@@ -2,6 +2,39 @@
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleq1tlgl00820fmztvlutsgh/stats?cursusId=21&coalitionId=75" alt="adardour's 42 stats" /></a>
 
+push_swap
+Success
+125
+/100
+so_long
+Success
+121
+/100
+Exam Rank 02
+Fail
+25
+/100
+minitalk
+Success
+110
+/100
+Born2beroot
+Success
+125
+/100
+get_next_line
+Success
+125
+/100
+ft_printf
+Success
+100
+/100
+Libft
+Success
+111
+/100
+
 
 <h1>Hi Im Achraf </h1>
 <p align="center">
