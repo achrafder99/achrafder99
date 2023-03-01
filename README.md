@@ -2,22 +2,6 @@
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleq1tlgl00820fmztvlutsgh/stats?cursusId=21&coalitionId=75" alt="adardour's 42 stats" /></a>
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleq1tlgl00820fmztvlutsgh/project/2925464" alt="adardour's 42 push_swap Score" /></a>
-
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleq1tlgl00820fmztvlutsgh/project/2983534" alt="adardour's 42 so_long Score" /></a>
-
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleq1tlgl00820fmztvlutsgh/project/2917755" alt="adardour's 42 minitalk Score" /></a>
-
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleq1tlgl00820fmztvlutsgh/project/2873789" alt="adardour's 42 Born2beroot Score" /></a>
-
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleq1tlgl00820fmztvlutsgh/project/2861151" alt="adardour's 42 get_next_line Score" /></a>
-
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleq1tlgl00820fmztvlutsgh/project/2863176" alt="adardour's 42 ft_printf Score" /></a>
-
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleq1tlgl00820fmztvlutsgh/project/2822938" alt="adardour's 42 Libft Score" /></a>
-
-
-
 
 <h1>Hi Im Achraf </h1>
 <p align="center">
