@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleq1tlgl00820fmztvlutsgh/stats?cursusId=21&coalitionId=75" alt="adardour's 42 stats" /></a>
+
+
 <h1>Hi Im Achraf </h1>
 <p align="center">
   <h5>This My Social Media If You want take a look and browse My Blogs</h5>
