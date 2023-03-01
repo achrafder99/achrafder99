@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=Achrafder99&show_icons=true&theme=radical" />
-<img src="[https://github-readme-stats.vercel.app/api?username=Achrafder99&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafder99&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+[![<adardour>'s 42 stats](https://badge.mediaplus.ma/darkblue/<adardour>)](https://github.com/oakoudad/badge42)
+
 
 <h1>Hi Im Achraf </h1>
 <p align="center">
