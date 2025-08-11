@@ -1,16 +1,42 @@
-### Hi there 👋
+# 👋 Hi, I'm Achraf Dardour
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cleq1tlgl00820fmztvlutsgh/stats?cursusId=21&coalitionId=75" alt="adardour's 42 stats" /></a>
+💻 **Full-Stack Developer** | 🚀 Passionate about clean code, modern UI/UX, and high-performance architectures  
 
+With **6+ years of experience** building scalable and engaging web applications, I specialize in **JavaScript**, **Node.js**, **React**, and **Django**. I enjoy turning complex ideas into elegant, efficient, and user-friendly solutions.
 
-<h1>Hi Im Achraf </h1>
-<p align="center">
-  <h5>This My Social Media If You want take a look and browse My Blogs</h5>
-  <a href="https://www.linkedin.com/in/achraf-dardour-4803251b6/"></a>
-  <a href="https://twitter.com/Achrafber4"></a>
-</p>
-<p>I m Know One Thing That Im Passionate With IT and old & new Technologies I do My best To learn Anything With Creating Technologies Can help people I'm Enjoying What I do</p>
-- 🔭 I’m currently working on Elmas business 
+---
 
-<h1>This Is My Stack</h1>
+## 🛠️ Tech Stack
 
+- **Frontend:** React, Next.js, Tailwind CSS, HTML5, CSS3
+- **Backend:** Node.js, Express, Django, Django REST Framework
+- **Databases:** PostgreSQL, MySQL, MongoDB, SQL
+- **DevOps & Tools:** Docker, Nginx, Git, GitHub Actions
+- **Architecture:** Microservices, REST APIs, WebSockets
+- **Others:** Agile, Scrum, Responsive Design, Performance Optimization
+
+---
+
+## 📌 About Me
+
+- 🌱 Currently improving my skills in **TypeScript** and **Cloud Deployments**
+- 🤝 Open to collaboration on **full-stack** or **backend** projects
+- ⚡ Passionate about modern UI design and interactive web experiences
+- 📫 Reach me at: **achraf.dardour@example.com**
+
+---
+
+## 📈 GitHub Stats
+
+![Achraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+
+---
