@@ -54,9 +54,6 @@ I love turning complex ideas into elegant, efficient, and user-friendly solution
 ---
 
 ## 📈 GitHub Stats
-
-![Achraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=achrafder99&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafder99&layout=compact&theme=tokyonight)
 
 ---
