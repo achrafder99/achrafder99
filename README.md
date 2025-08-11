@@ -2,26 +2,54 @@
 
 💻 **Full-Stack Developer** | 🚀 Passionate about clean code, modern UI/UX, and high-performance architectures  
 
-With **6+ years of experience** building scalable and engaging web applications, I specialize in **JavaScript**, **Node.js**, **React**, and **Django**. I enjoy turning complex ideas into elegant, efficient, and user-friendly solutions.
+With **6+ years of experience** building scalable and engaging web applications, I specialize in **JavaScript**, **Node.js**, **React**, and **Django**.  
+I love turning complex ideas into elegant, efficient, and user-friendly solutions while ensuring performance and maintainability.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Next.js, Tailwind CSS, HTML5, CSS3
-- **Backend:** Node.js, Express, Django, Django REST Framework
-- **Databases:** PostgreSQL, MySQL, MongoDB, SQL
-- **DevOps & Tools:** Docker, Nginx, Git, GitHub Actions
-- **Architecture:** Microservices, REST APIs, WebSockets
-- **Others:** Agile, Scrum, Responsive Design, Performance Optimization
+### **Frontend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+</p>
+
+### **Databases**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+</p>
+
+### **DevOps & Tools**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" alt="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+</p>
 
 ---
 
 ## 📌 About Me
 
-- 🌱 Currently improving my skills in **TypeScript** and **Cloud Deployments**
+- 🌱 Currently improving my skills in **TypeScript** & **Cloud Deployments**
 - 🤝 Open to collaboration on **full-stack** or **backend** projects
-- ⚡ Passionate about modern UI design and interactive web experiences
+- ⚡ Passionate about **modern UI/UX design** and **interactive web experiences**
 - 📫 Reach me at: **achraf.dardour@example.com**
 
 ---
